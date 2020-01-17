@@ -90,13 +90,15 @@ File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/
 
 ## Donation
 
-Did you like my work? Buy me a beer 😁🍺
+Did you like rossener's work? Buy him a beer 😁🍺
+
+And if you liked my posts just leave comments 😁
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
 
 ## Author
 
-[Thiago Rossener](https://rossener.com/)
+[Yong Min Kwon](https://pkwon953.github.io)
 
 ## License
 
