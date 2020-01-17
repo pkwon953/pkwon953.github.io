@@ -16,11 +16,11 @@ show_hero: true
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: pkwon953
-facebook_username: -
-twitter_username: -
+facebook_username: ''
+twitter_username: ''
 instagram_username: Yong Min Kwon
 linkedin_username: Yong Min Kwon
-medium_username: -
+medium_username: ''
 
 
 # Theme Settings
